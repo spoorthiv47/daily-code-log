@@ -1,0 +1,48 @@
+[33mcommit d9995d49ab59debc52074b953e59a570c4b01760[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Spoorthi <your-github-spoorthivastrad47@gmail.com>
+Date:   Fri Jul 10 22:48:16 2026 +0530
+
+    Initial commit - best_time_to_buy_stocks
+
+ solutions/best_time_to_buy_and_Sell_stocks.py | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit ccf11c6a8b4de20397931ac7c163e42fd6a2c9a1[m
+Author: Spoorthi <your-github-spoorthivastrad47@gmail.com>
+Date:   Fri Jul 10 00:13:34 2026 +0530
+
+    day: group anagram solved
+
+ solutions/003_group_anagram.py | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 8481ebeeb57f3be1c39f00fbcb4dcf37c2447feb[m
+Author: Spoorthi <your-github-spoorthivastrad47@gmail.com>
+Date:   Fri Jul 10 00:08:54 2026 +0530
+
+    day: valid anagram solved
+
+ 005_valid_palindrome.py => solutions/002_valid_anagram.py | 0
+ solutions/005_valid_palindrome.py                         | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 12bcdea6505f1689fb3f0aed33ef46b9f5cc1323[m
+Author: Spoorthi <your-github-spoorthivastrad47@gmail.com>
+Date:   Fri Jul 10 00:04:00 2026 +0530
+
+    day: valid palindrome solved
+
+ 005_valid_palindrome.py | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit de9921ddd39acd371fb2ec56de3a85269ee8d253[m
+Author: Spoorthi <your-github-spoorthivastrad47@gmail.com>
+Date:   Thu Jul 9 23:26:05 2026 +0530
+
+    init: daily code log + first LeetCode solution
+
+ README.md                | 44 [32m++++++++++++++++++++++++++++++++++++++++++++[m
+ new_day.sh               | 17 [32m+++++++++++++++++[m
+ solutions/001_two_sum.py | 19 [32m+++++++++++++++++++[m
+ template.md              | 15 [32m+++++++++++++++[m
+ 4 files changed, 95 insertions(+)
